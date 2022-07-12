@@ -14,7 +14,7 @@ Returns an array of structured Employee data comprising general, address, next o
 
     **Optional:**
 
-    `payroll_no_code [string] can be a comma separated list of valid Payroll Numbers.`
+    `payroll_no_code [string]` can be a comma separated list of valid Payroll Numbers.
 
 * **Success Reponse:**
 
